@@ -39,6 +39,7 @@
         "announcement_izeF7X",
         "announcement_fekMnb"
       ],
+      "disabled": true,
       "settings": {
         "show_line_separator": false,
         "close_btn": "1",
@@ -223,11 +224,11 @@
         "mega_page_MtwFkx",
         "mega_blog_Jbe4K9"
       ],
+      "disabled": true,
       "settings": {
         "header_layout": "logo_left",
         "header_fullwidth": true,
         "header_height": 70,
-        "logo": "shopify://shop_images/kalles.svg",
         "logo_width": 95,
         "header_colors": "",
         "main_menu": "main-menu",
@@ -249,7 +250,7 @@
         "logo_width_mb": 95,
         "main_menu_mobile": "",
         "header_categories": true,
-        "menu_categories": "shop-categories",
+        "menu_categories": "",
         "lazy_mn_mb": true,
         "only_click_icon": false,
         "header_mobile_colors": "",
@@ -259,11 +260,55 @@
         "sticky_type": "on_scroll_up",
         "sticky_glass": false
       }
+    },
+    "header_menu_bottom_blocks_whcTEH": {
+      "type": "header-menu-bottom-blocks",
+      "name": "t:sections.header.header_bottom.name_new",
+      "settings": {
+        "header_layout": "logo_left",
+        "header_fullwidth": true,
+        "header_border_bottom": false,
+        "logo": "shopify://shop_images/png_v3.png",
+        "logo_width": 136,
+        "header_height": 68,
+        "header_colors": "",
+        "search_type": "icon",
+        "enabled_user": true,
+        "enabled_wishlist": true,
+        "enabled_language_currency": false,
+        "other_main_header_content": "",
+        "header_bottom_height": 60,
+        "header_bottom_colors": "",
+        "main_menu": "main-menu",
+        "lazy_mn": true,
+        "menu_position": "start",
+        "menu_size": "base",
+        "menu_weight": "medium",
+        "text_transform": true,
+        "dropdown_arrow": true,
+        "spacing_nav": 30,
+        "open_event": "hover",
+        "header_menu_colors": "",
+        "header_categories": false,
+        "title_categories": "All Categories",
+        "menu_categories": "",
+        "header_border": "none",
+        "header_height_mb": 60,
+        "logo_width_mb": 130,
+        "main_menu_mobile": "",
+        "lazy_mn_mb": true,
+        "only_click_icon": false,
+        "header_mobile_colors": "",
+        "note_mobile": "<span class=\"hdt-inline-flex hdt-text-base hdt-font-medium\" style=\"border-bottom: solid 1px rgb(var(--color-line-border));margin-bottom: 11px\">Need help ? </span><span class=\"hdt-flex hdt-flex-col hdt-text-base hdt-font-medium\" style=\"line-height: 24px;\"><span>Address: 1234 Fashion Street, Suite 567,<br> New York, NY 10001</span><span>Email: <b>info@fashionshop.com</b></span><span>Phone: <b>(212) 555-1234</b></span></span>",
+        "sticky_type": "on_scroll_up",
+        "sticky_glass": false
+      }
     }
   },
   "order": [
     "announcement_bar_QKnWCh",
     "top_bar_3qfcq8",
-    "header_inline_xePFbC"
+    "header_inline_xePFbC",
+    "header_menu_bottom_blocks_whcTEH"
   ]
 }
