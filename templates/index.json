@@ -23,7 +23,7 @@
             "alignment": "left",
             "content_position_mb": "center-start",
             "alignment_mb": "left",
-            "background_content": false,
+            "background_content": true,
             "bg_opacity": 0,
             "box_square": false,
             "content_rounded": false,
