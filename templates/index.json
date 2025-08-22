@@ -362,11 +362,11 @@
         "slide_item_GJUjrO"
       ],
       "settings": {
-        "image_height": "fixed",
+        "image_height": "adapt_image_first",
         "fixed_height": 700,
-        "image_height_mb": "fixed",
+        "image_height_mb": "adapt_image_first",
         "fixed_height_mb": 400,
-        "is_fade": false,
+        "is_fade": true,
         "loop": true,
         "autoplay": 7,
         "pauseOnHover": true,
